@@ -7,5 +7,6 @@ Link al progetto completo: https://appuntamenti-app.netlify.app/
 - Scaricare il file Zip oppure Clonare (in questo caso rimuovere la cartella .git)
 - Aprire il progetto nell'IDE
 - Lanciare comando dal terminale npm install
+- npm run start
 
 Icone: npm install react-icons
