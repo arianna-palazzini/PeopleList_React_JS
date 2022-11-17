@@ -15,12 +15,13 @@ Icone: npm install react-icons
 ____________________________________________
 
 
-To view the complete project
+### To view the complete project
 Link to the full project: https://listpeople.netlify.app/
 
-To install the project
-Download the Zip file or Clone (in this case remove the .git folder)
-Open the project in the IDE
-Run command from terminal npm install
-npm run start
+### To install the project
+- Download the Zip file or Clone (in this case remove the .git folder)
+- Open the project in the IDE
+- Run command from terminal npm install
+- npm run start
+
 Icons: npm install react-icons
